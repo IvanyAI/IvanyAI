@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IvanyAI
 - 👀 I’m interested in tech and all about that
 - 🌱 I’m currently learning web development
-- 📫 How to reach me adiivaniyusuf@gmail.com
+- 📫 How to reach me @ivany_ai
 - 😄 Pronouns: he
 - ⚡ Fun fact: im 19
 
