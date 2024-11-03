@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IvanyAI
+- 👋 Hi, I’m Adi Ivani Yusuf
 - 👀 I’m interested in tech and all about that
 - 🌱 I’m currently learning web development
 - 📫 How to reach me @ivany_ai
